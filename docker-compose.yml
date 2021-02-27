@@ -1,0 +1,10 @@
+version: '2'
+services:
+  test:
+    container_name: test-frisby
+    build: .
+    volumes:
+      - ./output/:/usr/src/app/output/
+    environment:
+      - DEPLOY_TYPE=prod
+    

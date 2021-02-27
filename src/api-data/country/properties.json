@@ -1,0 +1,16 @@
+{
+    "urlForCountries" : {
+        "turkey" : "https://restcountries.eu/rest/v2/name/turkey"
+    },
+    "validKeys": [
+        "name",
+        "population",
+        "alpha2Code",
+        "area"
+    ],
+    "keyTypes": [
+        {"key": "name", "type": "string"},
+        {"key": "population", "type": "number"}
+    ],
+    "baseUrlForCountryWithAlpha3code": "​https://restcountries.eu/rest/v2/alpha"
+}

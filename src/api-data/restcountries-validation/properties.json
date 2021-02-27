@@ -1,0 +1,9 @@
+{
+    "validationUrl" : "https://restcountries.eu/rest/v2",
+    "expectedSizeOfArray" : 250,
+    "countryTest": {
+        "name": "Turkey",
+        "alpha2Code": "TR",
+        "alpha3Code": "TUR"
+    }
+}

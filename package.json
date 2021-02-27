@@ -1,0 +1,33 @@
+{
+  "name": "frisby-js-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:prod": "CONFIG=prod node src/utils/configurator.js && env-cmd jest --config=jest.config.js",
+    "start:dev": "CONFIG=dev node src/utils/configurator.js && env-cmd jest --config=jest.config.js",
+    "lint": "eslint --ext .js src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilgehannal/frisby-js-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilgehannal/frisby-js-demo/issues"
+  },
+  "homepage": "https://github.com/bilgehannal/frisby-js-demo#readme",
+  "dependencies": {
+    "env-cmd": "^10.1.0",
+    "frisby": "^2.0.5",
+    "fs": "0.0.1-security",
+    "jest": "^26.6.3",
+    "jest-html-reporter": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-plugin-jest": "^24.1.5"
+  }
+}

@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Output files
+output/*
+!output/dummy.js
