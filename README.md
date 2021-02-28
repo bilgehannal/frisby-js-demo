@@ -41,3 +41,7 @@ Now you can run the project using the commands below:
 	* `config/prod.json`
 
 * Artifacts will be restored in the `output/` directory.
+
+## Video Demo
+
+![IMAGE ALT TEXT](http://img.youtube.com/vi/QkdwnVpan0M/0.jpg)](https://www.youtube.com/watch?v=QkdwnVpan0M&ab_channel=BilgehanNAL "Video Title")
