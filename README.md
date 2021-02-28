@@ -44,4 +44,4 @@ Now you can run the project using the commands below:
 
 ## Video Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QkdwnVpan0M/0.jpg)](https://www.youtube.com/watch?v=QkdwnVpan0M&ab_channel=BilgehanNAL)
+[![Click For Video](https://img.youtube.com/vi/QkdwnVpan0M/0.jpg)](https://www.youtube.com/watch?v=QkdwnVpan0M&ab_channel=BilgehanNAL)
