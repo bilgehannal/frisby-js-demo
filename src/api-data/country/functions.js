@@ -2,7 +2,6 @@ const properties = require('./properties.json')
 const globalVariables = require('../../global-variables.json')
 const LOGGER = require('../../utils/logger')
 const frisby = require('frisby')
-// const helper = require('../../utils/helper')
 
 module.exports = {
 

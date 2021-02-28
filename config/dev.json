@@ -1,5 +1,4 @@
 {
     "DEPLOY_TYPE" : "PROD",
-    "DEBUG_MODE_ACTIVE" : "enable",
-    "MAIN_URL" : "https://sahibinden.com"
+    "DEBUG_MODE_ACTIVE" : "enable"
 }
